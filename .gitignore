@@ -1,0 +1,12 @@
+#Не храним папку Bitrix в GIT
+#/bitrix/*
+#But not the templates and non bitrix components
+!/bitrix/templates
+!/bitrix/components
+/bitrix/components/bitrix
+# при необходимости раскоментировать, но такие данные в GIT лучше не хранить
+#!/bitrix/php_interface/
+#!/bitrix/php_interface/dbconn.php
+#Хранить Upload тоже нет смысла
+/upload/
+По желанию добавляем свои папки и файлы (можно из PHPStorm).
