@@ -1,0 +1,4 @@
+<?php
+
+$MESS['BASE_TREE_SELECTOR_LOADING_ITEM'] = 'Поиск';
+$MESS['BASE_TREE_SELECTOR_EMPTY_ITEM'] = 'Нет элементов';

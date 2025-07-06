@@ -1,0 +1,13 @@
+.ui-tile-uploader-insert-into-text-button {
+	--ui-icon-set__icon-color: var(--ui-color-base-2);
+	opacity: 0.5;
+}
+
+.ui-tile-uploader-insert-into-text-button:hover {
+	opacity: 0.9;
+}
+
+.ui-tile-uploader-insert-into-text-button.--inserted {
+	--ui-icon-set__icon-color: var(--ui-color-accent-brand-blue);
+	opacity: 1;
+}

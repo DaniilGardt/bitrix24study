@@ -1,0 +1,13 @@
+.tasks-rec-list__toolbar-item,
+.bitrix24-dark-theme .tasks-rec-list__toolbar-item {
+	font-size: var(--ui-font-size-md);
+	color: var(--ui-color-base-90);
+}
+
+.bitrix24-light-theme .tasks-rec-list__toolbar-item {
+	color: var(--ui-color-on-primary);
+}
+
+.tasks-rec-list__toolbar-item:last-child {
+	margin-right: 10px;
+}

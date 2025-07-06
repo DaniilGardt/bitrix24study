@@ -1,0 +1,21 @@
+<?php
+$MESS["IM_RECENT_CREATE_CHANNEL_SUBTITLE_MSGVER_1"] = "News, Ankündigungen, Kommentare";
+$MESS["IM_RECENT_CREATE_CHANNEL_TITLE_V2"] = "Kanal";
+$MESS["IM_RECENT_CREATE_CHAT_WHAT_TO_CHOOSE"] = "Was passt mir am Besten?";
+$MESS["IM_RECENT_CREATE_COLLAB_DESCRIPTION_BANNER"] = "[color_highlight]Aufgaben, Dateien, Kalender[/color_highlight] und andere Tools";
+$MESS["IM_RECENT_CREATE_COLLAB_NEW_BADGE"] = "Neu";
+$MESS["IM_RECENT_CREATE_COLLAB_SUBTITLE_MSGVER_1"] = "Zusammenarbeit mit externen Teams und Gästen";
+$MESS["IM_RECENT_CREATE_COLLAB_TITLE"] = "Collab";
+$MESS["IM_RECENT_CREATE_CONFERENCE_SUBTITLE_MSGVER_1"] = "Videoanrufe mit Leuten außerhalb Ihres Unternehmens";
+$MESS["IM_RECENT_CREATE_CONFERENCE_TITLE"] = "Videokonferenz";
+$MESS["IM_RECENT_CREATE_COPILOT_ROLE_SELECTION_TITLE"] = "CoPilot-Rolle auswählen";
+$MESS["IM_RECENT_CREATE_COPILOT_SUBTITLE_MSGVER_1"] = "KI-gestützte Problemlösung";
+$MESS["IM_RECENT_CREATE_COPILOT_TITLE"] = "Chat mit CoPilot";
+$MESS["IM_RECENT_CREATE_GROUP_CHAT_SUBTITLE_MSGVER_1"] = "Diskussionen";
+$MESS["IM_RECENT_CREATE_GROUP_CHAT_TITLE_V2"] = "Gruppenchat";
+$MESS["IM_RECENT_CREATE_INVITE_SUBTITLE"] = "Laden Sie alle Teammitglieder auf einmal ein";
+$MESS["IM_RECENT_CREATE_INVITE_TITLE"] = "Team einladen";
+$MESS["IM_RECENT_HEADER_MENU_CHAT_GROUPS_SUBTITLE"] = "Chats in Ordner für schnelleren Zugriff organisieren.";
+$MESS["IM_RECENT_HEADER_MENU_CHAT_GROUPS_TITLE"] = "Ordner erstellen";
+$MESS["IM_RECENT_HEADER_MENU_READ_ALL_MSGVER_1"] = "Alle als gelesen markieren";
+$MESS["IM_RECENT_HEADER_MENU_SHOW_UNREAD_ONLY"] = "Ungelesene Chats anzeigen";

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001751522877';
+$dateexpire = '001751609277';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:5:{i:0;a:9:{s:6:"OPNAME";s:9:"tm_manage";s:8:"UALIAS_1";s:3:"102";s:8:"UALIAS_2";s:2:"G2";s:8:"UALIAS_3";s:3:"102";s:8:"UALIAS_4";s:3:"212";s:8:"UALIAS_5";s:3:"212";s:8:"UALIAS_6";s:1:"1";s:8:"UALIAS_7";s:5:"group";s:8:"UALIAS_8";s:2:"G2";}i:1;a:9:{s:6:"OPNAME";s:19:"tm_read_subordinate";s:8:"UALIAS_1";s:3:"102";s:8:"UALIAS_2";s:2:"G2";s:8:"UALIAS_3";s:3:"102";s:8:"UALIAS_4";s:3:"213";s:8:"UALIAS_5";s:3:"213";s:8:"UALIAS_6";s:1:"1";s:8:"UALIAS_7";s:5:"group";s:8:"UALIAS_8";s:2:"G2";}i:2;a:9:{s:6:"OPNAME";s:20:"tm_write_subordinate";s:8:"UALIAS_1";s:3:"102";s:8:"UALIAS_2";s:2:"G2";s:8:"UALIAS_3";s:3:"102";s:8:"UALIAS_4";s:3:"214";s:8:"UALIAS_5";s:3:"214";s:8:"UALIAS_6";s:1:"1";s:8:"UALIAS_7";s:5:"group";s:8:"UALIAS_8";s:2:"G2";}i:3;a:9:{s:6:"OPNAME";s:21:"tm_read_schedules_all";s:8:"UALIAS_1";s:3:"102";s:8:"UALIAS_2";s:2:"G2";s:8:"UALIAS_3";s:3:"102";s:8:"UALIAS_4";s:3:"215";s:8:"UALIAS_5";s:3:"215";s:8:"UALIAS_6";s:1:"1";s:8:"UALIAS_7";s:5:"group";s:8:"UALIAS_8";s:2:"G2";}i:4;a:9:{s:6:"OPNAME";s:23:"tm_read_shift_plans_all";s:8:"UALIAS_1";s:3:"102";s:8:"UALIAS_2";s:2:"G2";s:8:"UALIAS_3";s:3:"102";s:8:"UALIAS_4";s:3:"216";s:8:"UALIAS_5";s:3:"216";s:8:"UALIAS_6";s:1:"1";s:8:"UALIAS_7";s:5:"group";s:8:"UALIAS_8";s:2:"G2";}}}';
+return true;
+?>

@@ -1,0 +1,11 @@
+<?php
+$MESS["STAGE_DETAIL_COLOR_PICKER_TITLE"] = "Phasenfarbe";
+$MESS["STAGE_DETAIL_DEFAULT_STAGE_DEFAULT_NAME"] = "Neue Phase";
+$MESS["STAGE_DETAIL_DEFAULT_STAGE_NAME"] = "Name";
+$MESS["STAGE_DETAIL_DELETE"] = "Phase löschen";
+$MESS["STAGE_DETAIL_DELETE_TEXT"] = "Phase löschen?";
+$MESS["STAGE_DETAIL_FUNNEL"] = "Phase \"#STAGE_NAME#\"";
+$MESS["STAGE_DETAIL_FUNNEL_EMPTY"] = "Phase ohne Namen";
+$MESS["STAGE_DETAIL_NAME"] = "Phasenname";
+$MESS["STAGE_DETAIL_NAME_ERROR"] = "Geben Sie den Phasennamen ein";
+$MESS["STAGE_DETAIL_SAVE"] = "Speichern";

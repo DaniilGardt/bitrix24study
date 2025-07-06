@@ -1,0 +1,22 @@
+<?php
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_ADD_MEMBERS_TITLE"] = "Chat-Teilnehmer hinzufügen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_ADD_MORE"] = "Hinzufügen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_ADD_MSGVER_1"] = "Nutzer hinzufügen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_CANCEL_BUTTON"] = "Abbrechen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_FORWARD_TITLE"] = "Nachricht weiterleiten";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_FORWARD_TITLE_SEVERAL_MESSAGES"] = "Nachrichten weiterleiten";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_INVITE_BUTTON"] = "Einladen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_SHOW_HISTORY"] = "Chat-History anzeigen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_COPY_LINK"] = "Link kopieren";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TEXT_EMPLOYEE"] = "Gäste sind Collab-Teilnehmer, die keine Mitarbeiter Ihres Unternehmens sind. Sie können Partner, Kunden und externe Teams einladen. Gäste werden dabei nur auf dieses Collab zugreifen können.";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TEXT_GUEST"] = "Fügen Sie Nutzer zu Ihrem Collab hinzu, um zusammenzuarbeiten und Senden von Nachrichten an verschiedene Chats und Messenger zu vermeiden.";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TITLE_EMPLOYEE"] = "Gäste zum Collab einladen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TITLE_GUEST"] = "Andere Nutzer einladen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_HELPDESK_LINK"] = "Mehr";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_INVITE_BY_EMAIL"] = "Per E-Mail einladen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_INVITE_BY_LINK"] = "Per Link einladen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_INVITE_BY_PHONE_OR_EMAIL"] = "Per Telefon und E-Mail einladen";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_LINK_UPDATE_HINT"] = "Einen neuen Einladungslink erstellen, um den alten ungültig zu machen.";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_TITLE"] = "Zum Collab hinzufügen";
+$MESS["IM_ENTITY_SELECTOR_EMPLOYEES_TAB"] = "Mitarbeiter";
+$MESS["IM_ENTITY_SELECTOR_GUESTS_TAB"] = "Gäste";

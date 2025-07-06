@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001751745257';
+$dateexpire = '001754337257';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:11:"BADGES_DATA";a:14:{i:0;a:4:{s:2:"ID";s:1:"9";s:4:"SORT";s:3:"100";s:4:"CODE";s:8:"thumbsup";s:4:"NAME";s:10:"Успех";}i:1;a:4:{s:2:"ID";s:2:"10";s:4:"SORT";s:3:"200";s:4:"CODE";s:4:"gift";s:4:"NAME";s:14:"Подарок";}i:2;a:4:{s:2:"ID";s:2:"11";s:4:"SORT";s:3:"300";s:4:"CODE";s:3:"cup";s:4:"NAME";s:10:"Кубок";}i:3;a:4:{s:2:"ID";s:2:"12";s:4:"SORT";s:3:"400";s:4:"CODE";s:5:"money";s:4:"NAME";s:12:"Деньги";}i:4;a:4:{s:2:"ID";s:2:"13";s:4:"SORT";s:3:"500";s:4:"CODE";s:5:"crown";s:4:"NAME";s:12:"Корона";}i:5;a:4:{s:2:"ID";s:2:"14";s:4:"SORT";s:3:"600";s:4:"CODE";s:5:"drink";s:4:"NAME";s:16:"Коктейль";}i:6;a:4:{s:2:"ID";s:2:"15";s:4:"SORT";s:3:"700";s:4:"CODE";s:4:"cake";s:4:"NAME";s:8:"Торт";}i:7;a:4:{s:2:"ID";s:2:"16";s:4:"SORT";s:3:"800";s:4:"CODE";s:8:"thefirst";s:4:"NAME";s:12:"1 место";}i:8;a:4:{s:2:"ID";s:2:"17";s:4:"SORT";s:3:"900";s:4:"CODE";s:4:"flag";s:4:"NAME";s:8:"Флаг";}i:9;a:4:{s:2:"ID";s:2:"18";s:4:"SORT";s:4:"1000";s:4:"CODE";s:4:"star";s:4:"NAME";s:12:"Звезда";}i:10;a:4:{s:2:"ID";s:2:"19";s:4:"SORT";s:4:"1100";s:4:"CODE";s:5:"heart";s:4:"NAME";s:12:"Сердце";}i:11;a:4:{s:2:"ID";s:2:"20";s:4:"SORT";s:4:"1200";s:4:"CODE";s:4:"beer";s:4:"NAME";s:8:"Пиво";}i:12;a:4:{s:2:"ID";s:2:"21";s:4:"SORT";s:4:"1300";s:4:"CODE";s:7:"flowers";s:4:"NAME";s:10:"Цветы";}i:13;a:4:{s:2:"ID";s:2:"22";s:4:"SORT";s:4:"1400";s:4:"CODE";s:5:"smile";s:4:"NAME";s:12:"Улыбка";}}}}';
+return true;
+?>

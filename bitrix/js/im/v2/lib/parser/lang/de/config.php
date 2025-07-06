@@ -1,0 +1,16 @@
+<?php
+$MESS["IM_PARSER_ICON_TYPE_ATTACH"] = "Anhang";
+$MESS["IM_PARSER_ICON_TYPE_AUDIO"] = "Audio";
+$MESS["IM_PARSER_ICON_TYPE_CALL"] = "Anruf";
+$MESS["IM_PARSER_ICON_TYPE_CODE"] = "Code";
+$MESS["IM_PARSER_ICON_TYPE_FILE"] = "Datei";
+$MESS["IM_PARSER_ICON_TYPE_GALLERY"] = "Galerie";
+$MESS["IM_PARSER_ICON_TYPE_IMAGE"] = "Bild";
+$MESS["IM_PARSER_ICON_TYPE_QUOTE"] = "Zitat";
+$MESS["IM_PARSER_ICON_TYPE_VIDEO"] = "Video";
+$MESS["IM_PARSER_IMAGE_ICON"] = "Icon";
+$MESS["IM_PARSER_LINES_RATING"] = "Ranking";
+$MESS["IM_PARSER_LINES_RATING_DISLIKE"] = "Gefällt mir nicht";
+$MESS["IM_PARSER_LINES_RATING_LIKE"] = "Gefällt mir";
+$MESS["IM_PARSER_MENTION_DIALOG"] = "Klicken Sie, um den Kontext anzuzeigen";
+$MESS["IM_PARSER_MESSAGE_DELETED"] = "Diese Nachricht wurde gelöscht.";

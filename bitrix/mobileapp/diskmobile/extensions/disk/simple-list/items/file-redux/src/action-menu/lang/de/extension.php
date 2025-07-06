@@ -1,0 +1,19 @@
+<?php
+$MESS["M_DISK_FILE_ACTIONS_COPY"] = "Kopieren";
+$MESS["M_DISK_FILE_ACTIONS_DOWNLOAD"] = "Herunterladen";
+$MESS["M_DISK_FILE_ACTIONS_DOWNLOAD_ERROR_DESCRIPTION"] = "Datei konnte nicht heruntergeladen werden.";
+$MESS["M_DISK_FILE_ACTIONS_DOWNLOAD_ERROR_TITLE"] = "Fehler";
+$MESS["M_DISK_FILE_ACTIONS_MOVE"] = "Verschieben";
+$MESS["M_DISK_FILE_ACTIONS_REMOVE"] = "Löschen";
+$MESS["M_DISK_FILE_ACTIONS_REMOVE_CONFIRM_ACCEPT"] = "Löschen";
+$MESS["M_DISK_FILE_ACTIONS_REMOVE_FILE_CONFIRM_DESCRIPTION"] = "Die Datei wird 30 Tage lang im Papierkorb aufbewahrt.";
+$MESS["M_DISK_FILE_ACTIONS_REMOVE_FILE_CONFIRM_TITLE"] = "Möchten Sie diese Datei löschen?";
+$MESS["M_DISK_FILE_ACTIONS_REMOVE_FOLDER_CONFIRM_DESCRIPTION"] = "Der Ordner wird 30 Tage lang im Papierkorb aufbewahrt.";
+$MESS["M_DISK_FILE_ACTIONS_REMOVE_FOLDER_CONFIRM_TITLE"] = "Möchten Sie diesen Ordner löschen?";
+$MESS["M_DISK_FILE_ACTIONS_RENAME"] = "Umbenennen";
+$MESS["M_DISK_FILE_ACTIONS_SEND_TO_CHAT"] = "In den Chat senden";
+$MESS["M_DISK_FILE_ACTIONS_SHARE"] = "Freigeben";
+$MESS["M_DISK_FILE_ACTIONS_SHARE_ERROR_DESCRIPTION"] = "Datei konnte nicht freigegeben werden.";
+$MESS["M_DISK_FILE_ACTIONS_SHARE_ERROR_TITLE"] = "Etwas ist schiefgegangen";
+$MESS["M_DISK_FILE_ACTIONS_SHARE_LINK"] = "Öffentlicher Link";
+$MESS["M_DISK_FILE_ACTIONS_SHOW_IN_FOLDER"] = "Ordner mit Dateien öffnen";

@@ -1,0 +1,8 @@
+.tasks-flow__selector.--hide {
+	display: none;
+}
+
+.tasks-flow__selector .ui-btn-counter:not(.--air) {
+	background-color: var(--ui-color-background-info);
+	color: var(--ui-btn-color);
+}

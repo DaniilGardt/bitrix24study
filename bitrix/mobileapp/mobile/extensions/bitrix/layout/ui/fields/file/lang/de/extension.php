@@ -1,0 +1,20 @@
+<?php
+$MESS["FIELDS_FILE_ADD_FILE"] = "Dateien hinzufügen";
+$MESS["FIELDS_FILE_ADD_FILES"] = "Datei hinzufügen";
+$MESS["FIELDS_FILE_ADD_IMAGE"] = "Bild hinzufügen";
+$MESS["FIELDS_FILE_ADD_VIDEO"] = "Video hinzufügen";
+$MESS["FIELDS_FILE_ATTACHMENTS_NAVIGATION_TITLE"] = "Dateien (#NUM#)";
+$MESS["FIELDS_FILE_B24_DISK_MSGVER_1"] = "Drive";
+$MESS["FIELDS_FILE_CAMERA"] = "Ein Foto machen";
+$MESS["FIELDS_FILE_EDIT"] = "Bearbeiten";
+$MESS["FIELDS_FILE_EDIT_FILE"] = "Datei ersetzen";
+$MESS["FIELDS_FILE_EDIT_IMAGE"] = "Bild ersetzen";
+$MESS["FIELDS_FILE_EDIT_VIDEO"] = "Video ersetzen";
+$MESS["FIELDS_FILE_MEDIATEKA"] = "Aus der Galerie auswählen";
+$MESS["FIELDS_FILE_MEDIA_TYPE_ALERT_CONFIRM"] = "OK";
+$MESS["FIELDS_FILE_MEDIA_TYPE_ALERT_DESCR"] = "Versuchen Sie eine andere Datei hochzuladen.";
+$MESS["FIELDS_FILE_MEDIA_TYPE_ALERT_TITLE"] = "Ungültiger Dateityp";
+$MESS["FIELDS_FILE_OPEN_GALLERY"] = "Anzeigen";
+$MESS["FIELDS_FILE_UPLOAD_ALERT_DESCR"] = "Versuchen Sie bitte erneut. \nWenn das Problem weiterhin besteht, wenden Sie sich an Ihren Bitrix24 Administrator.";
+$MESS["FIELDS_FILE_UPLOAD_ALERT_TITLE"] = "Fehler beim Hochladen der Datei";
+$MESS["FIELDS_FILE_VALIDATION_ERROR"] = "Löschen Sie die Datei und laden Sie sie wieder hoch.";

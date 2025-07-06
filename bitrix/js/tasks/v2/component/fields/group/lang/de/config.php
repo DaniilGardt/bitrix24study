@@ -1,0 +1,22 @@
+<?php
+$MESS["TASKS_V2_GROUP_ABOUT"] = "Projekt öffnen";
+$MESS["TASKS_V2_GROUP_ABOUT_COLLAB"] = "Collab öffnen";
+$MESS["TASKS_V2_GROUP_ABOUT_SCRUM"] = "Scrum öffnen";
+$MESS["TASKS_V2_GROUP_ADD"] = "Hinzufügen";
+$MESS["TASKS_V2_GROUP_CANT_CHANGE_FLOW"] = "Projekt kann für Aufgaben, die mit einem Flow verknüpft sind, nicht gewechselt werden. Entfernen Sie die Aufgabe aus dem Flow, bevor Sie das Projekt wechseln.";
+$MESS["TASKS_V2_GROUP_CHANGE"] = "Ändern";
+$MESS["TASKS_V2_GROUP_CLEAR"] = "Lösen";
+$MESS["TASKS_V2_GROUP_COUNT_MEMBERS_PLURAL_0"] = "#COUNT# Teilnehmer";
+$MESS["TASKS_V2_GROUP_COUNT_MEMBERS_PLURAL_1"] = "#COUNT# Teilnehmer";
+$MESS["TASKS_V2_GROUP_COUNT_MEMBERS_PLURAL_2"] = "#COUNT# Teilnehmer";
+$MESS["TASKS_V2_GROUP_DATE_CREATE"] = "Erstellt am";
+$MESS["TASKS_V2_GROUP_EPIC_EMPTY"] = "Nicht ausgewählt";
+$MESS["TASKS_V2_GROUP_EPIC_HINT"] = "Epic";
+$MESS["TASKS_V2_GROUP_HIDDEN"] = "Ausgeblendetes Projekt";
+$MESS["TASKS_V2_GROUP_OWNER"] = "Besitzer";
+$MESS["TASKS_V2_GROUP_STAGE_HINT"] = "Phase auswählen";
+$MESS["TASKS_V2_GROUP_STORY_POINTS_HINT"] = "Story Points";
+$MESS["TASKS_V2_GROUP_SUBJECT"] = "Betreff";
+$MESS["TASKS_V2_GROUP_TITLE"] = "Projekt";
+$MESS["TASKS_V2_GROUP_TITLE_COLLAB"] = "Collab";
+$MESS["TASKS_V2_GROUP_TITLE_SCRUM"] = "Scrum";

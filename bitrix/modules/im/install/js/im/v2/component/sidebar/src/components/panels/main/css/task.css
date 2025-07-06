@@ -1,0 +1,43 @@
+.bx-im-sidebar-task-preview__avatar-container {
+	--im-sidebar-task-preview__background-color_avatar: #e6f4ff;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 172px;
+	padding: 25px 16px 0;
+}
+
+.bx-im-sidebar-task-preview__avatar {
+	width: 94px;
+	height: 94px;
+	display: flex;
+	align-items: center;
+	flex-shrink: 0;
+	margin-bottom: 18px;
+	border-radius: 50%;
+	background-color: var(--im-sidebar-task-preview__background-color_avatar);
+	background-position: center;
+	background-image: url('./images/task.svg');
+	background-size: 67px;
+	background-repeat: no-repeat;
+}
+
+.bx-im-sidebar-task-preview__title {
+	flex-grow: 1;
+}
+
+.bx-im-sidebar-task-preview__title .bx-im-chat-title__content {
+	text-align: center;
+}
+
+.bx-im-sidebar-task-preview__title .bx-im-chat-title__text {
+	font: var(--im-font-size-xl)/18px var(--im-font-family-system);
+	font-weight: var(--im-font-weight-semi-bold);
+	padding: 2px 0;
+}
+
+.bx-im-sidebar-task-preview__chat-members {
+	height: 42px;
+	padding: 7px 16px 11px;
+}

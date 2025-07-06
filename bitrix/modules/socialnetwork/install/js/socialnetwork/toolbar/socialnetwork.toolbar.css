@@ -1,0 +1,28 @@
+.sonet-interface-toolbar {
+	--white: rgba(255,255,255,1);
+	--white_alpha_15: rgba(255,255,255,.15);
+	--white_alpha_30: rgba(255,255,255,.3);
+	--white_alpha_40: rgba(255,255,255,.4);
+	--white_alpha_50: rgba(255,255,255,.5);
+	--white_alpha_80: rgba(255,255,255,.8);
+
+	--green: rgba(187,237,33,1);
+	--red: rgba(229,73,89,1);
+
+	--graphite: rgba(82,92,105,1);
+	--graphite_alpha_08: rgba(82,92,105,.08);
+	--graphite_alpha_30: rgba(82,92,105,.3);
+	--graphite_alpha_40: rgba(82,92,105,.4);
+	--graphite_alpha_50: rgba(82,92,105,.5);
+	--graphite_alpha_80: rgba(82,92,105,.8);
+}
+
+.sonet-pagetitle-view .pagetitle-below {
+	min-height: 53px;
+	border-top: 1px solid rgba(220,226,230,.5);
+}
+
+body.ui-action-panel-shown .pagetitle-below,
+body.ui-action-panel-shown .ui-side-panel-wrap-below {
+	border-color: transparent;
+}
