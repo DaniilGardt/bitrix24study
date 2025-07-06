@@ -1,0 +1,19 @@
+<?php
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_1_DAY"] = "1 Tag";
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_1_WEEK"] = "1 Woche";
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_2_WEEKS"] = "2 Wochen";
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_3_DAYS"] = "3 Tage";
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_CUSTOM"] = "Benutzerdefiniert";
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_EMPTY"] = "Keine Frist";
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_HINT"] = "Diese Frist wird standardmäßig für alle neuen Aufgaben gesetzt, die Sie erstellen. Sie können es jederzeit ändern.";
+$MESS["TASKS_DEADLINE_MENU_DEFAULT_ITEM_TITLE"] = "Standardfrist";
+$MESS["TASKS_DEADLINE_MENU_ERROR_DESCRIPTION"] = "Bitte laden Sie die Seite neu und versuchen Sie es erneut.";
+$MESS["TASKS_DEADLINE_MENU_ERROR_TITLE"] = "Fehler";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_DELIMITER"] = "Benachrichtigung über fehlende Frist";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_DONT_SKIP"] = "Jedes Mal, wenn eine Aufgabe erstellt wird";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_HINT"] = "Wählen Sie, wie Sie über fehlende Fristen in den von Ihnen erstellten Aufgaben benachrichtigt werden möchten.";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_SKIP_FOREVER"] = "Niemals";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_SKIP_FOR_DAY"] = "Heute nicht erinnern";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_SKIP_FOR_MONTH"] = "Diesen Monat nicht erinnern";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_SKIP_FOR_WEEK"] = "Diese Woche nicht erinnern";
+$MESS["TASKS_DEADLINE_MENU_NOTIFICATION_ITEM_TITLE"] = "Benachrichtigung über fehlende Frist";

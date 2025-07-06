@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001751530080';
+$dateexpire = '001751616480';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{i:0;a:17:{s:2:"ID";s:1:"1";s:11:"ENTITY_TYPE";s:4:"USER";s:9:"ENTITY_ID";s:1:"1";s:7:"NODE_ID";s:1:"1";s:6:"ACTIVE";s:1:"Y";s:8:"ADDED_BY";s:1:"0";s:10:"CREATED_AT";O:25:"Bitrix\\Main\\Type\\DateTime":2:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2025-07-03 09:14:59.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}s:18:"'.chr(0).'*'.chr(0).'userTimeEnabled";b:1;}s:10:"UPDATED_AT";O:25:"Bitrix\\Main\\Type\\DateTime":2:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2025-07-03 09:14:59.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}s:18:"'.chr(0).'*'.chr(0).'userTimeEnabled";b:1;}s:40:"HUMANRESOURCES_MODEL_NODE_MEMBER_ROLE_ID";s:1:"2";s:49:"HUMANRESOURCES_MODEL_NODE_MEMBER_ROLE_ENTITY_TYPE";s:6:"MEMBER";s:42:"HUMANRESOURCES_MODEL_NODE_MEMBER_ROLE_NAME";s:8:"EMPLOYEE";s:46:"HUMANRESOURCES_MODEL_NODE_MEMBER_ROLE_PRIORITY";s:1:"0";s:58:"HUMANRESOURCES_MODEL_NODE_MEMBER_ROLE_CHILD_AFFECTION_TYPE";s:1:"0";s:44:"HUMANRESOURCES_MODEL_NODE_MEMBER_ROLE_XML_ID";s:15:"MEMBER_EMPLOYEE";s:8:"UALIAS_1";s:1:"1";s:8:"UALIAS_2";s:1:"2";s:8:"UALIAS_3";s:2:"21";}}}';
+return true;
+?>

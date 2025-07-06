@@ -1,0 +1,24 @@
+<?php
+$MESS["TASKS_GRID_GROUP_ACTION_CANCELING"] = "Gruppenaktion abbrechen…";
+$MESS["TASKS_GRID_GROUP_ACTION_COUNTING_ELEMENTS_PROGRESS"] = "Elemente zählen";
+$MESS["TASKS_GRID_GROUP_ACTION_DESCRIPTION"] = "Bei einer großen Auswahl kann es bei einer Gruppenaktion eine Weile dauern. Bitte warten Sie, bis die Aktion abgeschlossen ist, oder brechen Sie sie ab.";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME"] = "Gruppenaktion";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_ADDACCOMPLICE"] = "Mitwirkende zu Aufgaben hinzufügen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_ADDAUDITOR"] = "Beobachter zu Aufgaben hinzufügen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_ADDTOFAVORITE"] = "Aufgaben zu Lesezeichen hinzufügen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_ADJUSTDEADLINE"] = "Aufgabenfristen verschieben…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_COMPLETE"] = "Ausgewählte Aufgaben fertigstellen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_DELETE"] = "Ausgewählte Aufgaben löschen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_MUTE"] = "Aufgaben stummschalten…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_PING"] = "Pings an Mitarbeiter senden…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_REMOVEFROMFAVORITE"] = "Aufgaben aus Lesezeichen entfernen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETCOLLAB"] = "Aufgaben werden zum Collab hinzugefügt. Gruppenaktion wird gestoppt, wenn Sie diesen Tab oder dieses Fenster schließen.";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETDEADLINE"] = "Aufgabenfristen setzen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETFLOW"] = "Aufgaben werden zum Flow hinzugefügt. Gruppenaktion wird gestoppt, wenn Sie diesen Bowser-Tab oder dieses Fenster schließen.";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETGROUP"] = "Aufgaben zur Gruppe hinzufügen…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETORIGINATOR"] = "Aufgabenersteller ändern…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETRESPONSIBLE"] = "Verantwortliche Person ändern…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETTASKCONTROL"] = "Anforderung der Kontrolle nach Aufgabenabschluss deaktivieren…";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_SETTASKCONTROL_YES"] = "Kontrolle nach Fertigstellung ist erforderlich. Gruppenaktion wird gestoppt, wenn Sie diesen Bowser-Tab oder dieses Fenster schließen.";
+$MESS["TASKS_GRID_GROUP_ACTION_NAME_UNMUTE"] = "Stummschaltung der Aufgaben aufheben…";
+$MESS["TASKS_GRID_GROUP_ACTION_NONE"] = "Keine Aktion ausgewählt.";

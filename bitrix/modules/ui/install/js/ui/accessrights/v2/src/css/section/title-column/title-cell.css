@@ -1,0 +1,13 @@
+.ui-access-rights-v2-title-column-menu {
+	margin-right: 12px;
+	cursor: pointer;
+
+	opacity: 0;
+	width: 22px;
+
+	transition: opacity 0.2s ease;
+}
+
+.ui-access-rights-v2-column-item:hover .ui-access-rights-v2-title-column-menu {
+	opacity: 1;
+}

@@ -1,0 +1,5 @@
+<?php
+$MESS['TASKS_REGULAR_TEMPLATE_TASK_PRODUCER_TASK_WAS_NOT_CREATED'] = 'Регулярная задача не создана';
+$MESS['TASKS_REGULAR_TEMPLATE_TASK_PRODUCER_TASK_CREATED'] = 'Регулярная задача создана (##TASK_ID#)';
+$MESS['TASKS_REGULAR_TEMPLATE_TASK_PRODUCER_TASK_CREATED_WITH_ERRORS'] = 'Регулярная задача создана с ошибками';
+$MESS['TASKS_REGULAR_TEMPLATE_TASK_PRODUCER_FILE_NOT_FOUND'] = 'Не удалось найти файл';

@@ -1,0 +1,22 @@
+.ui-btn.license-btn-primary {
+	background: #14bfd5;
+	border-color: #14bfd5;
+	margin-left: 12px !important;
+	display: flex;
+}
+
+.ui-btn.license-btn-primary:hover,
+.ui-btn.license-btn-primary:active {
+	background: #2cd4ea;
+	border-color: #2cd4ea;
+}
+
+.invitation-widget-counter {
+	position: absolute;
+	left: 75%;
+	top: -17px;
+}
+
+.invitation-structure-counter {
+	margin-left: 2px;
+}

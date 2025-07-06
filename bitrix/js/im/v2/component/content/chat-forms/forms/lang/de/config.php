@@ -1,0 +1,23 @@
+<?php
+$MESS["IM_CREATE_CHANNEL_CONFIRM"] = "Kanal erstellen";
+$MESS["IM_CREATE_CHANNEL_DESCRIPTION_PLACEHOLDER_V3"] = "Kanalbeschreibung eingeben";
+$MESS["IM_CREATE_CHANNEL_DESCRIPTION_TITLE"] = "Kanalbeschreibung";
+$MESS["IM_CREATE_CHANNEL_MEMBERS_HINT"] = "Fügen Sie Nutzer oder Abteilungen zum Kanal hinzu. Wenn Sie eine Abteilung hinzufügen, werden die neuen Mitarbeiter dieser Abteilung automatisch zu Abonnenten.";
+$MESS["IM_CREATE_CHANNEL_MEMBERS_TITLE"] = "Abonnenten #SUBTITLE_START#(fügen Sie eine Person oder eine Abteilung hinzu)#SUBTITLE_END#";
+$MESS["IM_CREATE_CHANNEL_TITLE_PLACEHOLDER_V2"] = "Kanalname";
+$MESS["IM_CREATE_CHANNEL_USER_SELECTOR_ADD_MEMBERS"] = "Abonnenten hinzufügen";
+$MESS["IM_CREATE_CHAT_CONFIRM"] = "Chat erstellen";
+$MESS["IM_CREATE_CHAT_MEMBERS_TITLE"] = "Teilnehmer #SUBTITLE_START#(fügen Sie eine Person oder eine Abteilung hinzu)#SUBTITLE_END#";
+$MESS["IM_CREATE_CHAT_TITLE_PLACEHOLDER"] = "Chatnamen eingeben";
+$MESS["IM_CREATE_COLLAB_BANNER_TEXT_1"] = "Erstellen Sie ein Collab für perfekte Ergebnisse. Alles, was Sie brauchen: Chat, Anrufe, Dateien, Aufgaben und Kalender. Die gesamte Kommunikations-History wird im Bitrix24 Ihres Unternehmens gespeichert.";
+$MESS["IM_CREATE_COLLAB_BANNER_TEXT_2"] = "Sobald Sie Ihr Collab erstellen, können Sie andere Nutzer sowie Gäste einladen. [learn-more]Mehr[/learn-more]";
+$MESS["IM_CREATE_COLLAB_BANNER_TITLE"] = "[learn-more]Collab[/learn-more] ist ein Co-Working-Space zur Zusammenarbeit mit externen Gästen und Kunden";
+$MESS["IM_CREATE_COLLAB_CONFIRM"] = "Collab erstellen";
+$MESS["IM_CREATE_COLLAB_DESCRIPTION_PLACEHOLDER"] = "Erzählen Sie anderen Nutzern, worum es in diesem Collab geht.";
+$MESS["IM_CREATE_COLLAB_DESCRIPTION_TITLE"] = "Collab-Beschreibung";
+$MESS["IM_CREATE_COLLAB_TITLE_PLACEHOLDER"] = "Collab-Name";
+$MESS["IM_CREATE_CONFERENCE_CONFIRM"] = "Konferenz erstellen";
+$MESS["IM_CREATE_CONFERENCE_TITLE_PLACEHOLDER"] = "Geben Sie den Namen der Videokonferenz ein";
+$MESS["IM_UPDATE_CHANNEL_COLLAPSED_ELEMENT"] = "Abonnenten (#COUNT#)";
+$MESS["IM_UPDATE_CONFIRM"] = "Anderungen speichern";
+$MESS["IM_UPDATE_GROUP_CHAT_COLLAPSED_ELEMENT"] = "Chat-Teilnehmer (#COUNT#)";

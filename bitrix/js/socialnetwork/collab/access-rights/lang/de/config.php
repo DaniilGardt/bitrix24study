@@ -1,0 +1,21 @@
+<?php
+$MESS["SN_COLLAB_ACCESS_RIGHTS"] = "Zugriffsrechte";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_BUTTON_CANCEL"] = "Abbrechen";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_BUTTON_SAVE"] = "Speichern";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_CHAT_LABEL"] = "Nutzer, die Nachrichten schreiben können:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_CHAT_LABEL_HINT"] = "Collab-Teilnehmer, die neue Nachrichten im Collab schreiben und veröffentlichen können:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_ERROR_REQUIRED_OWNER"] = "Collab-Besitzer ist erforderlich.";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_INITIATE_LABEL"] = "Nutzer, die neue Teilnehmer zum Collab einladen können:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_INITIATE_LABEL_HINT"] = "Collab-Teilnehmer, die Nutzer und Gäste zum Collab einladen können.";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_MANAGEMENT_LABEL_MSGVER_1"] = "Verwaltung und Zugriffsrechte";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_MODERATORS_LABEL"] = "Moderatoren:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_MODERATORS_LABEL_HINT"] = "Moderatoren sind Nutzer mit erweiterten Zugriffsrechten, die vom Collab-Besitzer festgelegt werden.";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_OWNER_LABEL"] = "Besitzer:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_OWNER_LABEL_HINT"] = "Besitzer hat vollen Zugriff auf alle Informationen im Collab, kann alle Collab-Einstellungen bearbeiten und Moderatoren festlegen.";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_SHOW_HISTORY_LABEL"] = "Chat-History für neue Teilnehmer verfügbar machen:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_TASKS_LABEL"] = "Aufgaben des Collabs";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_TCT_LABEL"] = "Nutzer, die neue Aufgaben erstellen können:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_TDT_LABEL"] = "Nutzer, die Aufgaben des Collabs löschen können:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_TET_LABEL"] = "Nutzer, die Aufgaben des Collabs bearbeiten können:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_TST_LABEL"] = "Nutzer, die Aufgaben des Collabs sortieren und verschieben können:";
+$MESS["SN_COLLAB_ACCESS_RIGHTS_TVU_LABEL"] = "Nutzer, die Aufgaben des Collabs anzeigen können:";

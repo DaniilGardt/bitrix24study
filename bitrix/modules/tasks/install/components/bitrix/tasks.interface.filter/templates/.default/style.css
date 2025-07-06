@@ -1,0 +1,50 @@
+.menu-popup-item-display-none {
+	display: none !important;
+}
+
+.menu-popup .menu-popup-item-disabled {
+	pointer-events: all;
+}
+
+/* Styles are intended for not Bitrix24 templates */
+.tasks-interface-filter-container {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+.menu-popup-item-sort-field-label {
+	padding: 0 6px;
+	background-color: #E5F6FC;
+	border-radius: 7px;
+	height: 14px;
+	line-height: 14px;
+	font-family: var(--ui-font-family-secondary, var(--ui-font-family-open-sans));
+	font-weight: var(--ui-font-weight-semi-bold, 600);
+	text-transform: uppercase;
+	font-size: 8px;
+	color: #2FC6F6;
+	letter-spacing: 0;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	top: -7px;
+	margin-left: 5px;
+}
+
+.tasks-pagetitle-view .ui-side-panel-wrap-title {
+	flex: none !important;
+}
+
+.tasks-interface-filter .main-ui-filter-search {
+	flex: 1;
+}
+
+.tasks-interface-filter-btn-add {
+	margin-right: 12px
+}

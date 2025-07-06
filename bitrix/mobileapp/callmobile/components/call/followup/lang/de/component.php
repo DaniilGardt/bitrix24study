@@ -1,0 +1,26 @@
+<?php
+$MESS["CALL_COMPONENT_ABOUT"] = "Besprechungsagenda";
+$MESS["CALL_COMPONENT_AGREEMENTS"] = "Ergebnis";
+$MESS["CALL_COMPONENT_AGREEMENTS_COMMON"] = "Ergebnis";
+$MESS["CALL_COMPONENT_AGREEMENTS_MEETINGS"] = "Besprechungen";
+$MESS["CALL_COMPONENT_AGREEMENTS_TASKS"] = "Aufgaben";
+$MESS["CALL_COMPONENT_EFFICIENCY"] = "Effizienz";
+$MESS["CALL_COMPONENT_EFFICIENCY_0"] = "Der Sinn des Anrufs ist unklar";
+$MESS["CALL_COMPONENT_EFFICIENCY_50"] = "Mittelmäßig";
+$MESS["CALL_COMPONENT_EFFICIENCY_75"] = "Gut";
+$MESS["CALL_COMPONENT_EFFICIENCY_100"] = "Ausgezeichnet";
+$MESS["CALL_COMPONENT_EFFICIENCY_AGENDA_CLEARLY"] = "Agenda war klar";
+$MESS["CALL_COMPONENT_EFFICIENCY_AGENDA_CONCLUSIONS"] = "Zusammenfassung wurde gemacht";
+$MESS["CALL_COMPONENT_EFFICIENCY_AGENDA_COVERED"] = "Produktive Diskussion";
+$MESS["CALL_COMPONENT_EFFICIENCY_AGENDA_TIME_EXCEED"] = "Anrufdauer hat geplante Zeit nicht überschritten";
+$MESS["CALL_COMPONENT_EFFICIENCY_RECOMMENDATIONS"] = "Effizienzbewertung von CoPilot";
+$MESS["CALL_COMPONENT_EFFICIENCY_RECOMMENDATIONS_0"] = "Versuchen Sie diesen Empfehlungen zu folgen, um Ihre Anrufe nützlich zu machen.";
+$MESS["CALL_COMPONENT_EFFICIENCY_RECOMMENDATIONS_75"] = "Es gibt etwas, was Sie verbessern können:";
+$MESS["CALL_COMPONENT_EFFICIENCY_RECOMMENDATIONS_100"] = "Gut gemacht!";
+$MESS["CALL_COMPONENT_GRADE"] = "Bewertung";
+$MESS["CALL_COMPONENT_INSIGHTS"] = "Analyse";
+$MESS["CALL_COMPONENT_MEETING_CREATE"] = "Eine Besprechung erstellen";
+$MESS["CALL_COMPONENT_MEETING_TYPE"] = "Besprechungstyp";
+$MESS["CALL_COMPONENT_SUMMARY"] = "Zusammenfassung";
+$MESS["CALL_COMPONENT_TASK_CREATE"] = "Eine Aufgabe erstellen";
+$MESS["CALL_COMPONENT_TRANSCRIPTIONS"] = "Anruftranskription";

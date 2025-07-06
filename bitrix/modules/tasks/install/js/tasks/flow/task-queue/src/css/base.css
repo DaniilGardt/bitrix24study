@@ -1,0 +1,91 @@
+.tasks-flow__task-queue-popup_content {
+	/*padding: 12px 18px 6px;*/
+}
+
+.tasks-flow__task-queue-popup_container {
+	padding: 12px 0px 6px 18px;
+	user-select: none;
+	width: 320px;
+	max-height: 280px;
+}
+
+.tasks-flow__task-queue-line-container {
+	padding-bottom: 4px;
+	padding-top: 4px;
+}
+
+.tasks-flow__task-queue-popup_label {
+	display: flex;
+	margin-bottom: 4px;
+	font-size: var(--ui-font-size-xl);
+	font-weight: var(--ui-font-weight-normal);
+	align-items: center;
+	color: #525C69;
+	line-height: normal;
+}
+
+.tasks-flow__task-queue-popup_status {
+	color: #828B95;
+	font-size: var(--ui-font-size-sm);
+	font-weight: var(--ui-font-weight-normal);
+	font-style: normal;
+	line-height: 18px;
+}
+
+.tasks-flow__task-queue-popup_status-counter-box {
+	display: flex;
+	align-items: flex-end;
+	gap: 4px;
+	align-self: stretch;
+}
+
+.tasks-flow__task-queue-popup_delimiter {
+	display: flex;
+	height: 1px;
+	background-color: rgba(var(--ui-color-palette-black-solid-rgb), var(--ui-opacity-5));
+	margin: 8px 18px 10px 0;
+}
+
+.tasks-flow__task-queue-popup_label-text {
+	text-overflow: ellipsis;
+	letter-spacing: var(--ui-text-letter-spacing-neg-1);
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.tasks-flow__task-queue-popup_inner {
+	display: block;
+	min-height: 26px;
+	max-height: 184px;
+	padding-right: 18px;
+	scrollbar-track-color: var(--ui-color-base-10);
+	scrollbar-base-color: var(--ui-color-base-40);
+	scrollbar-shadow-color: var(--ui-color-base-40);
+	scrollbar-highlight-color: var(--ui-color-base-40);
+	overflow-y: auto;
+}
+
+.tasks-flow__task-queue-popup_inner::-webkit-scrollbar {
+	width: 6px;
+}
+
+.tasks-flow__task-queue-popup_inner::-webkit-scrollbar-thumb {
+	border-radius: var(--ui-border-radius-2xs);
+	background: var(--ui-color-base-40);
+}
+
+.tasks-flow__task-queue-popup_inner::-webkit-scrollbar-track {
+	margin-bottom: 12px;
+	border-radius: var(--ui-border-radius-2xs);
+	background: var(--ui-color-base-10);
+}
+
+.tasks-flow__total-task-counter.ui-counter-inner {
+	color: var(--ui-color-palette-gray-90);
+	font-size: var(--ui-font-size-5xs);
+}
+
+.tasks-flow__total-task-counter-container {
+	--ui-counter-current-bg-color: rgba(var( --ui-color-palette-gray-90-rgb), var(--ui-opacity-10));
+	margin-left: 4px;
+}

@@ -1,0 +1,11 @@
+<?php
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_FROM_SERVER"] = "Vom Server herunterladen";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_FROM_SERVER_INFO"] = "Laden Sie Dateien vom Server herunter, bevor Sie sie speichern.";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_MENU_DOWNLOAD_TO_DEVICE"] = "Herunterladen";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_MENU_DOWNLOAD_TO_DISK"] = "Im Drive speichern";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_MENU_DOWNLOAD_TO_DISK_MSGVER_1"] = "In Dateien speichern";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_TO_DEVICE_FAILURE"] = "Herunterladen fehlgeschlagen.";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_TO_DEVICE_SUCCESS"] = "Datei wurde auf Ihrem Gerät gespeichert.";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_TO_DISK_FAILURE"] = "Dateien konnten in Ihren Dateien nicht gespeichert werden.";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_TO_DISK_SUCCESS"] = "Datei wurde in Ihrem Drive gespeichert";
+$MESS["IMMOBILE_MESSENGER_FILE_DOWNLOAD_TO_DISK_SUCCESS_MSGVER_1"] = "Datei wurde in Ihren Dateien gespeichert.";

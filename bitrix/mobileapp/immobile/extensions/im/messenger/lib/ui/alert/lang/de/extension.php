@@ -1,0 +1,22 @@
+<?php
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_DESCRIPTION"] = "Dieser Kanal, seine Nachrichten, Dateien und Kommentare werden dauerhaft gelöscht. Möchten Sie den Kanal löschen?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_POSTS_TITLE"] = "Ausgewählte Nachrichten löschen";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_POST_DESCRIPTION"] = "Diese Nachricht, ihre Kommentare und Reaktionen werden gelöscht. Möchten Sie die Nachricht löschen?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_POST_TITLE"] = "Nachricht löschen";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_TITLE_MSGVER_1"] = "Kanal löschen";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHAT_DESCRIPTION"] = "Dieser Chat, seine Nachrichten und Dateien werden dauerhaft gelöscht. Möchten Sie den Chat löschen?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHAT_TITLE_MSGVER_1"] = "Chat löschen";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_COLLAB_CONFIRM_YES"] = "Ja";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_COLLAB_DESCRIPTION"] = "Das Collab wird mit der gesamten Kommunikations-History gelöscht. Diese Aktion kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_COLLAB_TITLE"] = "Collab löschen";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_MESSAGES_TITLE"] = "Ausgewählte Nachrichten löschen";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHANNEL_CONFIRM_TITLE"] = "Möchten Sie das Abo für den Kanal wirklich beenden?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHANNEL_CONFIRM_YES"] = "Ja";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHAT_CONFIRM_TITLE"] = "Möchten Sie den Chat wirklich verlassen?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHAT_CONFIRM_YES"] = "Ja";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_COLLAB_CONFIRM_YES"] = "Ja";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_COLLAB_DESCRIPTION"] = "Möchten Sie das Collab verlassen? Sie verlieren den Zugriff auf Chat, Aufgaben, Dateien und Besprechungen im Collab.";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_COLLAB_TITLE"] = "Collab verlassen";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_REMOVE_COLLAB_CONFIRM_YES"] = "Ja";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_REMOVE_COLLAB_DESCRIPTION"] = "Möchten Sie diesen Teilnehmer aus dem Collab entfernen? Er wird den Zugriff auf Chat, Aufgaben, Dateien und Besprechungen im Collab verlieren.";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_REMOVE_COLLAB_TITLE"] = "Teilnehmer entfernen";

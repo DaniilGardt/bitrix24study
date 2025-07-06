@@ -1,0 +1,23 @@
+<?php
+$MESS["CAL_COMPANY_SECT_0"] = "Сыртқы көрмелер мен конференциялар";
+$MESS["CAL_COMPANY_SECT_1"] = "Мәскеулік кеңсе оқиғалары";
+$MESS["CAL_COMPANY_SECT_2"] = "Калининградтық кеңсенің оқиғалары";
+$MESS["CAL_COMPANY_SECT_DESC_0"] = "Біздің компания қатысатын сыртқы көрмелер мен конференциялар";
+$MESS["CAL_COMPANY_SECT_DESC_1"] = "Компанияның мәскеулік кеңсесінің ішкі оқиғалары";
+$MESS["CAL_COMPANY_SECT_DESC_2"] = "Компанияның калининградтық кеңсесінің ішкі оқиғалары";
+$MESS["CAL_COMP_EVENT_DESC_0"] = "Апта сайынғы серіктестерді оқыту семинары";
+$MESS["CAL_COMP_EVENT_DESC_2"] = "Сату бөлімінің апта сайынғы есебі";
+$MESS["CAL_COMP_EVENT_DESC_3"] = "Жаңа қызметкерлерді оқыту";
+$MESS["CAL_COMP_EVENT_DESC_4"] = "Бөлімдер арасындағы футболдан жарыс";
+$MESS["CAL_COMP_EVENT_DESC_5"] = "Пентболдан қала Чемпионаты. Біздікілерге жанкүйер болу үшін келіңіз!";
+$MESS["CAL_COMP_EVENT_NAME_0"] = "Серіктестік семинар";
+$MESS["CAL_COMP_EVENT_NAME_1"] = "\"Жаңа жабдық\" көрмесі";
+$MESS["CAL_COMP_EVENT_NAME_2"] = "Сату бөлімінің есебі";
+$MESS["CAL_COMP_EVENT_NAME_3"] = "\"Тікелей сатылымдар\" тренингі";
+$MESS["CAL_COMP_EVENT_NAME_4"] = "Футбол";
+$MESS["CAL_COMP_EVENT_NAME_5"] = "Пейнтбол";
+$MESS["CAL_TYPE_COMPANY_NAME"] = "Компания күнтізбелері";
+$MESS["CAL_TYPE_GROUP_NAME"] = "Топтар күнтізбелері";
+$MESS["CAL_TYPE_LOCATION_NAME"] = "Келіссөздер бөлмесі бос емес";
+$MESS["CAL_TYPE_USER_NAME"] = "Пайдаланушылар күнтізбелері";
+$MESS["W_IB_CALENDAR_EMP_ABS"] = "Тапсырыс берушімен оның кеңсесінде кездесу";

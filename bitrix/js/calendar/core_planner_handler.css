@@ -1,0 +1,20 @@
+/* Event Info Popup */
+.tm-event-popup { width: 320px; font: normal 12px/normal var(--ui-font-family-primary, var(--ui-font-family-helvetica)); overflow: hidden;}
+.tm-event-popup-description { margin: 13px 10px; color: #222222; }
+.tm-event-popup-time { margin: 13px 16px 13px 10px; text-align: center; }
+.tm-event-popup-time-interval { color: #000; font-size: 18px; }
+.tm-event-popup-time-hint { color: #7f7f7f; font-size: 13px; margin: 2px 0 0 0;}
+.tm-event-popup-participants { margin: 13px 10px;  max-height: 120px; overflow-y: auto; overflow-x: hidden;}
+
+.tm-event-popup-participant { overflow: hidden; margin: 0 0 5px 0; }
+.tm-event-popup-participant-status { float: left; width:11px; height:14px; margin: 0 5px 0 0; background: url(images/calendar-planner.png) no-repeat -26px 1px; vertical-align:middle;}
+.tm-event-popup-participant-status-accept { background: url(images/calendar-planner.png) no-repeat 0 1px; }
+.tm-event-popup-participant-status-decline { background: url(images/calendar-planner.png) no-repeat -13px 1px; }
+.tm-event-popup-participant-name { overflow: hidden; text-align: left; }
+.tm-event-popup-participant-name .tm-event-popup-participant-link { color: #3b3b3b; text-decoration: none; vertical-align:middle;}
+.tm-event-popup-participant-name .tm-event-popup-participant-link:hover { text-decoration: underline; }
+.tm-event-popup-participant-hint { color: #838383; display:inline-block; margin-left: 0.5em; vertical-align: top; }
+
+.tm-event-popup-participants-grid { width: 100%; margin:14px 0 0 0; }
+.tm-event-popup-participants-grid-left { width: 50%; padding: 0; vertical-align:top;}
+.tm-event-popup-participants-grid-right { width: 50%; padding: 0 0 0 5px; vertical-align:top;}

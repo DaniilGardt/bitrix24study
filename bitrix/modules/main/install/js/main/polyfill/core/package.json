@@ -1,0 +1,16 @@
+{
+  "name": "main.polyfill.core",
+  "version": "2.0.0",
+  "description": "",
+  "main": "dist/polyfill.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.41.0",
+    "core-js-compat": "^3.41.0"
+  }
+}

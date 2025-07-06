@@ -1,0 +1,22 @@
+<?php
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL"] = "Fügen Sie einen Kunden mit einer Telefonnummer hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL_COMPANY"] = "Fügen Sie einen Kunden mit einer Telefonnummer zu diesem Unternehmen hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL_CONTACT"] = "Fügen Sie einen Kunden mit einer Telefonnummer zu diesem Kontakt hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL_DEAL"] = "Fügen Sie einen Kunden mit einer Telefonnummer zu diesem Auftrag hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL_INVOICE"] = "Fügen Sie einen Kunden mit einer Telefonnummer zu dieser Rechnung hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL_LEAD"] = "Fügen Sie einen Kunden mit einer Telefonnummer zu diesem Lead hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL_QUOTE"] = "Fügen Sie einen Kunden mit einer Telefonnummer zu diesem Angebot hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_CALL_SMART_INVOICE"] = "Fügen Sie einen Kunden mit einer Telefonnummer zu dieser Rechnung hinzu, um einen Anruf machen zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND_COMPANY"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse zu diesem Unternehmen hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND_CONTACT"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse zu diesem Kontakt hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND_DEAL"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse zu diesem Auftrag hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND_INVOICE"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse zu dieser Rechnung hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND_LEAD"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse zu diesem Lead hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND_QUOTE"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse zu diesem Angebot hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ADD_CLIENT_FOR_EMAIL_SEND_SMART_INVOICE"] = "Fügen Sie einen Kunden mit einer E-Mail-Adresse zu dieser Rechnung hinzu, um eine E-Mail senden zu können.";
+$MESS["CRM_TOOLBAR_COMPONENT_ROBOTS_GUIDE_TEXT"] = "Hier können Sie Automatisierungsregeln und Trigger bearbeiten";
+$MESS["CRM_TOOLBAR_COMPONENT_ROBOTS_GUIDE_TEXT_1"] = "Hier können Sie Automatisierungsregeln und Trigger konfigurieren";
+$MESS["CRM_TOOLBAR_COMPONENT_SCRIPTS_GUIDE_TEXT"] = "Hier können Sie Smartprozesse bearbeiten";
+$MESS["CRM_TOOLBAR_COMPONENT_TELEPHONY_NOT_SUPPORTED"] = "Das Modul Instant Messenger ist erforderlich, um Anrufe machen zu können. Bitte wenden Sie sich an Ihren Bitrix24 Administrator.";
+$MESS["CRM_TOOLBAR_COMPONENT_TELEPHONY_NOT_SUPPORTED_OK"] = "OK";

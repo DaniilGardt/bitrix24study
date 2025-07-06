@@ -1,0 +1,35 @@
+<?php
+
+return [
+	'extensions' => [
+		'alert',
+		'error',
+        'analytics',
+		'asset-manager',
+		'feature',
+		'haptics',
+		'notify-manager',
+		'utils/string',
+		'utils/function',
+		'utils/copy',
+		'selector/widget/entity/socialnetwork/user',
+		'statemanager/redux/slices/users',
+		'statemanager/redux/store',
+		'tariff-plan-restriction',
+		'tasks:entry',
+		'tasks:enum',
+		'tasks:layout/online',
+		'tasks:layout/task/view-new/ui/extra-settings',
+		'tasks:loc',
+		'tasks:layout/dod',
+		'tasks:statemanager/redux/slices/groups',
+		'tasks:statemanager/redux/slices/tasks',
+		'toast',
+		'ui-system/blocks/icon',
+		'im:messenger/api/dialog-opener',
+		'app-rating-manager',
+	],
+	'bundle' => [
+		'./src/error',
+	],
+];

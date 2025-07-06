@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001751741797';
+$dateexpire = '001751828197';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";s:1102:"{"TREE":[[1],[2,4,3]],"DATA":{"1":{"ID":1,"NAME":"Моя компания","IBLOCK_SECTION_ID":0,"UF_HEAD":null,"SECTION_PAGE_URL":"#SITE_DIR#company\\/structure.php?set_filter_structure=Y\\u0026structure_UF_DEPARTMENT=#ID#","DEPTH_LEVEL":1,"EMPLOYEES":[],"STRUCTURE_NODE_ID":1},"2":{"ID":2,"NAME":"Бухгалтерия","IBLOCK_SECTION_ID":1,"UF_HEAD":null,"SECTION_PAGE_URL":"#SITE_DIR#company\\/structure.php?set_filter_structure=Y\\u0026structure_UF_DEPARTMENT=#ID#","DEPTH_LEVEL":2,"EMPLOYEES":[],"STRUCTURE_NODE_ID":2},"4":{"ID":4,"NAME":"Отдел маркетинга и рекламы","IBLOCK_SECTION_ID":1,"UF_HEAD":null,"SECTION_PAGE_URL":"#SITE_DIR#company\\/structure.php?set_filter_structure=Y\\u0026structure_UF_DEPARTMENT=#ID#","DEPTH_LEVEL":2,"EMPLOYEES":[],"STRUCTURE_NODE_ID":3},"3":{"ID":3,"NAME":"Отдел продаж","IBLOCK_SECTION_ID":1,"UF_HEAD":null,"SECTION_PAGE_URL":"#SITE_DIR#company\\/structure.php?set_filter_structure=Y\\u0026structure_UF_DEPARTMENT=#ID#","DEPTH_LEVEL":2,"EMPLOYEES":[],"STRUCTURE_NODE_ID":4}},"ROOT":{"ID":1},"COMPATIBILITY":{"1":1,"2":2,"3":4,"4":3}}";}';
+return true;
+?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001751827251';
+$dateexpire = '001751830851';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:1:"-";a:29:{s:38:"~CRM_DEAL_MANUAL_OPPORTUNITY_INITIATED";s:1:"Y";s:17:"~crm_install_time";s:10:"1751522577";s:38:"~CRM_INVOICE_PRODUCTS_CONVERTED_12_5_7";s:1:"Y";s:29:"can_use_webpack_table_for_app";s:1:"Y";s:29:"catalog_contractors_converted";s:1:"Y";s:16:"crm_lead_enabled";s:1:"N";s:21:"crm_lead_enabled_show";s:1:"Y";s:31:"crm_requisite_preset_country_id";s:1:"1";s:14:"crm_uf_history";s:91:"a:2:{s:7:"INVOICE";s:24:"2025-07-03T09:07:29+0300";s:0:"";s:24:"2025-07-05T22:06:20+0300";}";s:16:"def_mycompany_id";s:1:"0";s:23:"default_address_zone_id";s:2:"ru";s:19:"default_permissions";s:2:"[]";s:26:"default_product_catalog_id";s:2:"14";s:25:"DOCUMENTS_SIGNING_ENABLED";s:1:"1";s:24:"enable_order_deal_create";s:1:"Y";s:13:"enable_slider";s:1:"Y";s:16:"ent_addr_frmt_id";s:1:"4";s:13:"form_features";s:1:"N";s:30:"invoice_show_transition_notice";s:1:"N";s:34:"is_enable_calendar_events_settings";s:1:"N";s:26:"LIVE_FEED_IN_CRM_AVAILABLE";s:0:"";s:36:"LIVE_FEED_RECORDS_GENERATION_ENABLED";s:0:"";s:18:"old_invoice_enable";s:1:"N";s:34:"repeat_sale_segment_initialization";s:1:"Y";s:25:"requisite_default_presets";s:24:"a:1:{s:7:"COMPANY";i:1;}";s:25:"selected_catalog_group_id";s:1:"1";s:27:"use_v2_version_config_perms";s:1:"Y";s:25:"useServerTimeInRecyclebin";s:19:"05.07.2025 22:16:12";s:22:"webform_preset_version";s:1:"4";}}}';
+return true;
+?>
